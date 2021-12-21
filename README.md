@@ -8,8 +8,15 @@
 
 ## 1. OBJETIVOS
 ***Objetivo General***
-
+Aplicar de forma práctica los conceptos fundamentales de circuitos mixtos y ademas analizar circuitos mediante los métodos de mallas y nodos así como aplicar el principio de superposición y los teoremas de Thevenin y Norton.
 ***Objetivos Específicos***
+1. Reconocer cómo se relaciona cada resistor incluido en un circuito dado con los demás resistores
+2. Aplicar el teorema de superposición al análisis de circuitos
+3. Aplicar el teorema de Thevenin para simplificar un circuito para su análisis
+4. Comprender los diferentes métodos de análisis mediante los teoremas de
+Thevenin y Norton como los métodos tradicionales vistos anteriormente en clase
+e identificar las ventajas y desventajas de usar cada método. 
+
 ## 2. MARCO TEÓRICO
 ***Capitulo 7***
 
@@ -70,5 +77,7 @@ La resistencia de 50 ohmios se mantiene
 ### CAPÍTULO 7
 ### CAPÍTULO 8
 ## 5. CONCLUSIONES
+1. Para la resolución de circuitos mixtos primero se trata de resolver todos los elementos que se encuentren en serie y en paralelo por aparte, para finalmente reducir a un circuito puro, bien sea en serie o paralelo.
+2. Los Teoremas de Thevenin y Norton son muy útiles debido a quefunciona para determinar intensidades y/o voltajes en circuitos que son muy complejosy grandes sin necesidad de desarrollar todo el circuito sino más bien, utilizando unacorriente de cortocircuito, una conductancia y el circuito equivalente, de esta manerase miden voltajes e intensidades especificas en un circuito complejo.
 ## 6. BIBLIOGRAFIA
 1. FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
