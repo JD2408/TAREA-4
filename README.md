@@ -8,8 +8,11 @@
 
 ## 1. OBJETIVOS
 ***Objetivo General***
+
 Aplicar de forma práctica los conceptos fundamentales de circuitos mixtos y ademas analizar circuitos mediante los métodos de mallas y nodos así como aplicar el principio de superposición y los teoremas de Thevenin y Norton.
+
 ***Objetivos Específicos***
+
 1. Reconocer cómo se relaciona cada resistor incluido en un circuito dado con los demás resistores
 2. Aplicar el teorema de superposición al análisis de circuitos
 3. Aplicar el teorema de Thevenin para simplificar un circuito para su análisis
