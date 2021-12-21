@@ -84,6 +84,7 @@ La resistencia de 50 ohmios se mantiene
 
 10. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
 
+![image](https://user-images.githubusercontent.com/93794279/146962605-e0ea02f0-7216-49d0-a76a-aca77ceaad04.png)
 
 
 
