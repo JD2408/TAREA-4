@@ -71,9 +71,21 @@ La resistencia de 50 ohmios se mantiene
 ![image](https://user-images.githubusercontent.com/93794279/146852373-c575f7fc-280a-4790-b7db-82928c703a15.png)
 ![image](https://user-images.githubusercontent.com/93794279/146852452-0299efb2-b0c9-4842-a8c7-e838934eecb9.png)
 ![image](https://user-images.githubusercontent.com/93794279/146852485-d259f075-af8a-4429-b348-edb8760d5b3c.png)
-
  
  8. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/93794279/146955222-d6a14975-1740-4ed1-80ad-cf84484a3809.png)
+![image](https://user-images.githubusercontent.com/93794279/146957192-9e9f59af-71a3-4c2d-a76b-c720a64723a0.png)
+
+9. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+
+![image](https://user-images.githubusercontent.com/93794279/146957444-7160c7c5-f965-4c32-a5cc-534906f7b1e9.png)
+![image](https://user-images.githubusercontent.com/93794279/146958752-0d2c83ff-d5ac-4cee-abab-bbb947c6b6e3.png)
+
+10. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+
+
 
 
 ## 4. VIDEOS
