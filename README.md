@@ -86,6 +86,19 @@ La resistencia de 50 ohmios se mantiene
 
 ![image](https://user-images.githubusercontent.com/93794279/146962605-e0ea02f0-7216-49d0-a76a-aca77ceaad04.png)
 
+11. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
+
+![image](https://user-images.githubusercontent.com/93794279/147974677-ea4c3fa5-a0ba-4bbf-8ff6-e992511ec46c.png)
+![image](https://user-images.githubusercontent.com/93794279/147974700-fd71a098-3ebf-42b6-bd9b-f990ce379c1d.png)
+
+12. Aplique el teorema de Norton al circuito de la figura 8-84.
+
+![image](https://user-images.githubusercontent.com/93794279/147974748-bcb062d4-788f-4ac8-b440-b163ace8c6ec.png)
+![image](https://user-images.githubusercontent.com/93794279/147975596-0ee9e061-e525-41fb-8918-9de94b0bb543.png)
+![image](https://user-images.githubusercontent.com/93794279/147975624-74d7373b-a104-4e02-ac05-48de988d73e2.png)
+
+
+
 
 
 
