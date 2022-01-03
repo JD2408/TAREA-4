@@ -105,8 +105,14 @@ La resistencia de 50 ohmios se mantiene
 ## 4. VIDEOS
 ### CAPÍTULO 7
 ### CAPÍTULO 8
+
+https://youtu.be/Gvt0LPnl0qY
+
 ## 5. CONCLUSIONES
 1. Para la resolución de circuitos mixtos primero se trata de resolver todos los elementos que se encuentren en serie y en paralelo por aparte, para finalmente reducir a un circuito puro, bien sea en serie o paralelo.
 2. Los Teoremas de Thevenin y Norton son muy útiles debido a quefunciona para determinar intensidades y/o voltajes en circuitos que son muy complejosy grandes sin necesidad de desarrollar todo el circuito sino más bien, utilizando unacorriente de cortocircuito, una conductancia y el circuito equivalente, de esta manerase miden voltajes e intensidades especificas en un circuito complejo.
 ## 6. BIBLIOGRAFIA
 1. FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
+2. El Teorema de Norton. (2020, November 10). Mi Universo Electrónico. https://miuniversoelectronico.com/el-teorema-de-norton/
+
+
