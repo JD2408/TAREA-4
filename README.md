@@ -97,9 +97,9 @@ La resistencia de 50 ohmios se mantiene
 ![image](https://user-images.githubusercontent.com/93794279/147975596-0ee9e061-e525-41fb-8918-9de94b0bb543.png)
 ![image](https://user-images.githubusercontent.com/93794279/147975624-74d7373b-a104-4e02-ac05-48de988d73e2.png)
 
+13. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
 
-
-
+![image](https://user-images.githubusercontent.com/93794279/147980507-95515870-92e4-4549-b8da-6040abb84625.png)
 
 
 ## 4. VIDEOS
