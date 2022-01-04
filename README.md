@@ -1,4 +1,4 @@
-# PRIMER PARCIAL TAREA 4
+# SEGUNDO PARCIAL TAREA 4
 
 ## Informe de los Ejercicios Capitulo 7 y 8
 ### Fundamento de circuitos Eléctricos 
@@ -33,6 +33,98 @@ e identificar las ventajas y desventajas de usar cada método.
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 ### CAPÍTULO 7
+
+*SECCIÓN 7–1 Identificación de relaciones en serie-paralelo*
+1. Visualice y trace las siguientes combinaciones en serie-paralelo:
+
+(a) R1 en serie con la combinación en paralelo de R2 y R3
+
+[![Imagen2.png](https://i.postimg.cc/c4hGh3sM/Imagen2.png)](https://postimg.cc/vc4KHcxc)
+
+(b) R1 en paralelo con la combinación en serie de R2 y R3
+
+[![Imagen3.png](https://i.postimg.cc/ZnJDvfyk/Imagen3.png)](https://postimg.cc/34bZPFB9)
+
+(c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
+
+[![Imagen4.png](https://i.postimg.cc/pL3GJVnJ/Imagen4.png)](https://postimg.cc/hXb1SBsX)
+
+
+2. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
+
+(a) R1 y R4 estan conectados en serie combinados con R2 y R3 que se encuentran en paralelo 
+
+[![Imagen5.png](https://i.postimg.cc/ZR4LwWYp/Imagen5.png)](https://postimg.cc/d7Nd1tyV)
+
+(b) R1 se encuentra en serie combinado con R2,R3 y R4 que estan conectados en paralelo 
+
+[![Imagen6.png](https://i.postimg.cc/Bn2DRJVg/Imagen6.png)](https://postimg.cc/BjQXKfsL)
+
+(c) R2 y R3 se encuentran en serie combinados con R4 yR5 que estan en paralelo y todo esto combinado con R1 que esta en serie
+
+[![Imagen7.png](https://i.postimg.cc/v8ptK2mG/Imagen7.png)](https://postimg.cc/xq3mJRHZ)
+
+
+3. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo. 
+
+[![Imagen8.png](https://i.postimg.cc/FzDTXJV5/Imagen8.png)](https://postimg.cc/300XgNqn)
+
+4. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
+
+[![Imagen9.png](https://i.postimg.cc/Y0H69NxL/Imagen9.png)](https://postimg.cc/8JZJX69T)
+
+
+
+*SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo*
+
+
+5. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a la fuente.
+
+[![Imagen10.png](https://i.postimg.cc/HLfSHycF/Imagen10.png)](https://postimg.cc/VSW9W5FF)
+
+6. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
+
+[![Imagen11.png](https://i.postimg.cc/tCSww7kG/Imagen11.png)](https://postimg.cc/3dGtD8zt)
+
+7. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
+
+[![Imagen12.png](https://i.postimg.cc/WzL8QFYS/Imagen12.png)](https://postimg.cc/YGRQF9Hm)
+
+[![Imagen13.png](https://i.postimg.cc/yxC5FY9g/Imagen13.png)](https://postimg.cc/mzV844mB)
+
+8. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
+
+[![Imagen14.png](https://i.postimg.cc/BbcqFz83/Imagen14.png)](https://postimg.cc/zHvZZ0S2)
+
+[![Imagen15.png](https://i.postimg.cc/J4Nf1JXf/Imagen15.png)](https://postimg.cc/nCLR2X02)
+
+9. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
+
+[![Imagen16.png](https://i.postimg.cc/s2jwCHdL/Imagen16.png)](https://postimg.cc/PC7mm4qb)
+
+10. Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.
+
+[![Imagen17.png](https://i.postimg.cc/Y2sVf7KC/Imagen17.png)](https://postimg.cc/JtjPM9zf)
+
+[![Imagen18.png](https://i.postimg.cc/NjkSqrVd/Imagen18.png)](https://postimg.cc/hXhpVhKm)
+
+11. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72: AB, BC y CD.
+
+[![Imagen19.png](https://i.postimg.cc/XvJgXZHN/Imagen19.png)](https://postimg.cc/HrqMhL1F)
+
+[![Imagen20.png](https://i.postimg.cc/2502xs9w/Imagen20.png)](https://postimg.cc/XZyfjzbG)
+
+[![Imagen21.png](https://i.postimg.cc/sDz7vnwD/Imagen21.png)](https://postimg.cc/Z0fCQxG1)
+
+12. Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
+
+[![Imagen22.png](https://i.postimg.cc/nzNzxDDj/Imagen22.png)](https://postimg.cc/BLcsctN4)
+
+13. ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kÆ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+
+[![Imagen24.png](https://i.postimg.cc/sx9vJ2MM/Imagen24.png)](https://postimg.cc/GTtLLdJR)
+
+[![Imagen25.png](https://i.postimg.cc/s2DqjHYq/Imagen25.png)](https://postimg.cc/4YqBw5FQ)
 
 
 ### CAPÍTULO 8
@@ -103,8 +195,6 @@ La resistencia de 50 ohmios se mantiene
 
 
 ## 4. VIDEOS
-### CAPÍTULO 7
-### CAPÍTULO 8
 
 https://youtu.be/Gvt0LPnl0qY
 
